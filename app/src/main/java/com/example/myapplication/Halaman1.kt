@@ -47,6 +47,7 @@ fun Hal1(navigation:NavController){
             Text(text = "Tombol ke Hal 2")
         }
         Text(text = "Halaman 1")
+
     }
 }
 

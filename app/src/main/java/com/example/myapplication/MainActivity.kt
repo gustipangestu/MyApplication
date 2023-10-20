@@ -78,7 +78,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     }
 
     fun generatedRandomValue(): Int {
-     
+
         var rndmint:Int = (0 until 255).random()
         return rndmint
     }
