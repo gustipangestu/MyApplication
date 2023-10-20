@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_coba_halaman">CobaHalaman</string>
+    <string name="title_activity_halaman1">Halaman1</string>
+</resources>
